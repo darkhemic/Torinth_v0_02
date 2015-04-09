@@ -1,0 +1,169 @@
+﻿[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP101: PTL: 0.0808: PTML: 0.004: XPG:  201: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.0808: CF: 0.0808: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 3069.356689: CF: 3069.356689: CP: 0.0: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP61: PTL: 0.0488: PTML: 0.004: XPG:  121: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.0488: CF: 0.0488: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 5082.049316: CF: 5082.049316: CP: 45.0: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP41: PTL: 0.0328: PTML: 0.004: XPG:  81: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.0328: CF: 0.0328: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 7561.097656: CF: 7561.097656: CP: 135.0: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  4: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.56.40:708][178]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  4: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:709][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.40:709][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.56.40:709][178]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.40:709][178]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.40:709][178]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP201: PTL: 0.1608: PTML: 0.004: XPG:  301: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.1608: CF: 0.1608: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 1542.313477: CF: 1542.313477: CP: 0.0: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP121: PTL: 0.0968: PTML: 0.004: XPG:  181: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.0968: CF: 0.0968: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 2562.024658: CF: 2562.024658: CP: 45.0: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP81: PTL: 0.0648: PTML: 0.004: XPG:  121: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.0648: CF: 0.0648: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 3827.222168: CF: 3827.222168: CP: 135.0: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.56.55:257][712]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  5: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  5: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.55:258][712]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP301: PTL: 0.2408: PTML: 0.004: XPG:  401: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.2408: CF: 0.2408: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 1029.916992: CF: 1029.916992: CP: 0.0: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP181: PTL: 0.1448: PTML: 0.004: XPG:  241: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.1448: CF: 0.1448: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 1712.734863: CF: 1712.734863: CP: 45.0: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP121: PTL: 0.0968: PTML: 0.004: XPG:  161: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.0968: CF: 0.0968: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 2562.024658: CF: 2562.024658: CP: 135.0: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:798][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  6: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  6: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.56.59:799][880]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP401: PTL: 0.3208: PTML: 0.004: XPG:  501: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.3208: CF: 0.3208: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 773.079773: CF: 773.079773: CP: 0.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP241: PTL: 0.1928: PTML: 0.004: XPG:  301: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.1928: CF: 0.1928: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 1286.327759: CF: 1286.327759: CP: 45.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP161: PTL: 0.1288: PTML: 0.004: XPG:  201: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.1288: CF: 0.1288: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 1925.496948: CF: 1925.496948: CP: 135.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  7: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.57.14:596][414]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  7: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:597][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.14:597][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.57.14:597][414]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.14:597][414]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.14:597][414]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP501: PTL: 0.4008: PTML: 0.004: XPG:  601: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.4008: CF: 0.4008: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 618.772522: CF: 618.772522: CP: 0.0: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP301: PTL: 0.2408: PTML: 0.004: XPG:  361: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.2408: CF: 0.2408: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 1029.916992: CF: 1029.916992: CP: 45.0: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP201: PTL: 0.1608: PTML: 0.004: XPG:  241: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.1608: CF: 0.1608: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 1542.313477: CF: 1542.313477: CP: 135.0: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.57.17:799][532]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  8: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  8: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.17:800][532]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP601: PTL: 0.4808: PTML: 0.004: XPG:  701: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.4808: CF: 0.4808: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 515.815308: CF: 515.815308: CP: 0.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP361: PTL: 0.2888: PTML: 0.004: XPG:  421: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.2888: CF: 0.2888: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 858.739563: CF: 858.739563: CP: 45.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP241: PTL: 0.1928: PTML: 0.004: XPG:  281: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.1928: CF: 0.1928: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 1286.327759: CF: 1286.327759: CP: 135.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  9: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.57.23:205][731]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  9: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:206][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.23:206][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.57.23:206][731]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.23:206][731]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.23:206][731]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Strength: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP701: PTL: 0.5608: PTML: 0.004: XPG:  801: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.5608: CF: 0.5608: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 0.0: CA: 442.232513: CF: 442.232513: CP: 0.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Constitution: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP421: PTL: 0.3368: PTML: 0.004: XPG:  481: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.3368: CF: 0.3368: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 45.0: CA: 736.353882: CF: 736.353882: CP: 45.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Dexterity: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 90.0: CA: 248003.984375: CF: 248003.984375: CP: 90.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Agility: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP281: PTL: 0.2248: PTML: 0.004: XPG:  321: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.2248: CF: 0.2248: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 135.0: CA: 1103.220703: CF: 1103.220703: CP: 135.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Wisdom: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 180.0: CA: 248003.984375: CF: 248003.984375: CP: 180.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Intelligence: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  10: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 225.0: CA: 248003.984375: CF: 248003.984375: CP: 225.0: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: Stat: Perception: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  10: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:476][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.27:477][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 315.0: CA: 248003.984375: CF: 248003.984375: CP: 315.0: 
+[2015.02.09-05.57.27:477][889]LogBlueprintUserMessages: Stat: Charisma: Lvl: 1: MLvl: 250: HLA:  1: LRL:1: XPTL:1250: CXP1: PTL: 0.0008: PTML: 0.004: XPG:  3: XPE: 0: RLR: 0.01: RLR: 0.01: 
+[2015.02.09-05.57.27:477][889]LogBlueprintUserMessages: BC: 1: BF: 1: CC: 0.001: CF: 0.001: 
+[2015.02.09-05.57.27:477][889]LogBlueprintUserMessages: BA: 1.004016: BF: 1.004016: BP: 270.0: CA: 248003.984375: CF: 248003.984375: CP: 270.0: 
+[2015.02.09-05.57.30:660][  3]LogActorComponent: Unregis
