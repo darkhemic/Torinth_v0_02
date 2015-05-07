@@ -45,3 +45,5 @@ Temporary Items
 #Project Intermediate & Saved Files
 /Intermediate*
 /Saved*
+/Binaries/**
+/Binaries/Win64/UE4Editor-*.*
